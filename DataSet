@@ -1,0 +1,5 @@
+The data was taken from Kaggle: https://www.kaggle.com/datasnaek/mbti-type
+It contains  8675 rows of data.
+In this dataset, each row consists of two columns. The first column is for the MBTI personality type of a given person, and the second column includes fifty posts obtained from the individual’s social media.
+Each post has been separated by three pipe characters (|||). 
+MBTI Personality system divides everyone into 16 distinct personality types across 4 axis:Introversion (I) – Extroversion (E),Intuition (N) – Sensing (S),Thinking (T) – Feeling (F),Judging (J) – Perceiving (P)
