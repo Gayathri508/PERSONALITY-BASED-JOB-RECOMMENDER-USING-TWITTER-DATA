@@ -1,0 +1,10 @@
+Importing Twitter Data 
+Steps to follow in order to get data from twitter
+Create a Twitter account
+Go to https://apps.twitter.com/ and log in with your Twitter credentials
+Click "Create new app"
+Fill out the form and create your Twitter application
+Next click on "API keys" tab and copy "API key" and "API secret".
+Next click "create access token" and copy your "Access token" and "Access token secret"
+We use TWEEPY package in order to use the twitter API and get the posts of a particular person.
+By using the consumer_key, consumer_secret, access_token ,access_token_secret keys we authenticate the user and try to connect to twitter and import the  tweets of the user.
